@@ -1,3 +1,0 @@
-User-agent: *
-Allow:/
-Sitemap: https://Julsenara.com/sitemap.xml
